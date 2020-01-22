@@ -14,8 +14,8 @@ This will show the climate of maryville
 - Vikas
 
 #### Images
-![HorizonsWest](https://cdn.websites.hibu.com/a65db6d908894d27be5a46be86f9efa4/dms3rep/multi/desktop/S1-2560x1700.jpg)
-![StatueofLiberty](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg/250px-Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg)
+![HW](https://cdn.websites.hibu.com/a65db6d908894d27be5a46be86f9efa4/dms3rep/multi/desktop/S1-2560x1700.jpg)
+![SFL](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg/250px-Lady_Liberty_under_a_blue_sky_%28cropped%29.jpg)
 
 ##### Links
 [StatueofLiberty](https://en.wikipedia.org/wiki/Statue_of_Liberty)
